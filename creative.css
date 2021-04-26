@@ -1,0 +1,127 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+}
+header {
+	height: 450px;
+	width: 100%;
+	color: white;
+	background-color: royalblue;
+}
+header h1 {
+	font-size: 90px;
+	padding-left: 500px;
+	padding-top: 100px;
+}
+header span{
+	height: 100px;
+	width: 525px;
+	margin-bottom: 100px;
+	background-color: lightgreen;
+	color: white;
+	border-top-left-radius: 50%;
+	border-top-right-radius: 50%;
+	border-bottom-right-radius: 50%;
+	border-bottom-left-radius: 50%;
+	font-size: 45px;
+}
+.banner{
+	height: 600px;
+	width: 100%;
+	max-height: 600px;
+	max-width: 100%;
+}
+.button{
+	height: 40px;
+	width: 100px;
+	background-color: lightgreen;
+	padding: 5px 10px;
+	color: white;
+	margin-top: 20px;
+	min-width: 40px;
+	min-height: 40px;
+}
+.W{
+	height: 50px;
+	width: 100px;
+	color: white;
+	background-color: royalblue;
+	border-top-left-radius: 50%;
+	border-top-right-radius: 50%;
+	border-bottom-right-radius: 50%;
+	border-bottom-left-radius: 50%;
+	padding: 5px;
+}
+.banner-div1{
+	width: 35%;
+	height: 600px;
+	float: left;
+	padding-left: 200px;
+	padding-top: 150px;
+}
+.container{
+	background-color: royalblue;
+	height: 450px;
+	width: 100%;
+	color: white;
+	max-width: 100%;
+	max-height: 450px;
+}
+.sub-container1{
+	float: left;
+	width: 35%;
+	max-width: 35%;
+	max-height: 450px;
+	min-height: 40px;
+	min-width: 40px;
+}
+.sub-container2{
+	float: left;
+	margin-top: 100px;
+	width: 35%;
+	max-width: 35%;
+	max-height: 450px;
+}
+.sub-container2 h3{
+	margin-top: 50px;
+	float: left;
+}
+.sub-section{
+	height: 1000px;
+	width: 100%;
+	max-height: 1000px;
+	max-width: 100%;
+	min-height: 40px;
+	min-width: 40px;
+}
+footer{
+	height: 300px;
+	width: 100%;
+	background-color: royalblue;
+	max-height: 300px;
+	max-width: 100%;
+	min-height: 40px;
+	min-width: 40px;
+	color: white;
+}
+footer a{
+	text-decoration: none;
+	color: white;
+	padding-top: 10px;
+}
+.footer-intro{
+	width: 25%;
+	height: 300px;
+	float: left;
+	margin-top: 100px;
+	padding-left: 100px;
+	padding-right: 50px;	
+}
+.footer-container{
+	float: left;
+	width: 20%;
+	height: 300px;
+	margin-top: 100px;
+	height: 300px;
+}
